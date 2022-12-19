@@ -1,0 +1,11 @@
+.content__box {
+    max-width: 984px;
+    margin: 0 auto 92px;
+}
+
+@media (max-width: 1024px) {
+    .content__box {
+        max-width: 928px;
+    }
+}
+

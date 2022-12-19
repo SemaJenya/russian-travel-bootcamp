@@ -1,0 +1,10 @@
+.page__box {
+    max-width: 1184px;
+    margin: 0 auto 28px;
+}
+
+@media (max-width: 1024px) {
+    .page__box {
+        margin: 0 auto 20px;
+    }
+}
