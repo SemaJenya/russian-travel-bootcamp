@@ -1,6 +1,7 @@
 /* Страница */
 @import url(./blocks/page/page.css);
 @import url(./blocks/page/__box/page__box.css);
+@import url(./blocks/page/__header/page__header.css);
 
 @import url(./vendor/font-face.css);
 @import url(./vendor/normalize.css);
