@@ -1,0 +1,13 @@
+.place__paragraph-box {
+    max-width: 484px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 26px;
+}
+
+@media (max-width: 1024px) {
+    .place__paragraph-box {
+        max-width: 456px;
+    }
+
+}
