@@ -5,3 +5,9 @@
     justify-content: end;
     row-gap: 12px;
 }
+
+@media (max-width: 320px) {
+    .place__link-box {
+        padding: 0 16px;
+    }
+}

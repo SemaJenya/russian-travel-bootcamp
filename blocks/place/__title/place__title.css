@@ -9,13 +9,21 @@
 @media (max-width: 1024px) {
     .place__title {
         font-size: clamp(42px, 8vw, 72px);
+        line-height: clamp(46px, 8vw, 76px);
         max-width: 440px;
     }
 }
 
-@media (max-width: 786px) {
+@media (max-width: 768px) {
     .place__title {
         font-size: clamp(32px, 7vw, 42px);
+        line-height: clamp(35px, 8vw, 46px);
         max-width: 340px;
+    }
+}
+
+@media (max-width: 320px) {
+    .place__title {
+        padding: 0 16px;
     }
 }

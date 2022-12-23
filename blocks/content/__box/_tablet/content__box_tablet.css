@@ -1,0 +1,12 @@
+
+@media (max-width: 768px) {
+    .content__box_tablet {
+        padding: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .content__box_tablet {
+        padding: 0;
+    }
+}

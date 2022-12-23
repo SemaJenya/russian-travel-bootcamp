@@ -9,3 +9,17 @@
     }
 }
 
+@media (max-width: 768px) {
+    .content__box {
+        padding: 0 24px;
+        margin: 0 auto 88px;
+    }
+}
+
+@media (max-width: 320px) {
+    .content__box {
+        padding: 0 16px;
+        margin: 0 auto 64px;
+    }
+}
+
