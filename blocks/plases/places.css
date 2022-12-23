@@ -2,6 +2,7 @@
    display: grid;
    row-gap: 80px;
    grid-template-columns: 1fr;
+   font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
 @media (max-width: 768px) {

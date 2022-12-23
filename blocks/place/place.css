@@ -4,6 +4,7 @@
     row-gap: 48px;
     color: white;
     grid-template-columns: 460px 1fr;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
 

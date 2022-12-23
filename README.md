@@ -19,6 +19,5 @@
 
 **GitHub Pages**
 
-тут будет ссылка 
+[https://semajenya.github.io/russian-travel-bootcamp/]
 
-Удачи!
