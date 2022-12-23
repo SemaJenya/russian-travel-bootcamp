@@ -1,6 +1,5 @@
 .header {
    display: flex;
-   border: 1px solid salmon; 
    align-items: flex-end;
    justify-content: space-between;
 }
