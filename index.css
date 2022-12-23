@@ -4,6 +4,7 @@
 @import url(./blocks/page/__header/page__header.css);
 @import url(./blocks/page/__photo-grid/page__photo-grid.css);
 
+
 @import url(./vendor/font-face.css);
 @import url(./vendor/normalize.css);
 
@@ -25,6 +26,7 @@
 /* Content */
 @import url(./blocks/content/__box/content__box.css);
 @import url(./blocks/content/__box/_mid/content__box_mid.css);
+@import url(./blocks/content/__cover/content__cover.css);
 
 
 /* Lead */
@@ -55,6 +57,15 @@
 @import url(./blocks/place/__image/place__image.css);
 @import url(./blocks/place/__paragraph-box/place__paragraph-box.css);
 @import url(./blocks/place/__paragraph/place__paragraph.css);
+
+/* Cover */
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__background/cover__background.css);
+@import url(./blocks/cover/__overlay/cover__overlay.css);
+@import url(./blocks/cover/__subtitle/cover__subtitle.css);
+@import url(./blocks/cover/__title/cover__title.css);
+@import url(./blocks/cover/__item/cover__item.css);
+
 
 
 
