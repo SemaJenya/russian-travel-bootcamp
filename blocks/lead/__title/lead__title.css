@@ -14,3 +14,10 @@
         margin-bottom: clamp(16px, 5vw, 32px);
     }
 }
+
+@media (max-width: 320px) {
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+    }
+}
