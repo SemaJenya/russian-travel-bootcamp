@@ -26,8 +26,8 @@
 
 /* Content */
 @import url(../blocks/content/__box/content__box.css);
-@import url(../blocks/content/__box/_ident/content__box_ident_phone.css);
-@import url(../blocks/content/__box/_ident/content__box_ident_tablet.css);
+@import url(../blocks/content/__box/_indent/content__box_indent_phone.css);
+@import url(../blocks/content/__box/_indent/content__box_indent_tablet.css);
 @import url(../blocks/content/__cover/content__cover.css);
 
 
