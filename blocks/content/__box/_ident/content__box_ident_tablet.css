@@ -1,6 +1,5 @@
-
 @media (max-width: 768px) {
-    .content__box_tablet_indent {
+    .content__box_indent_tablet {
         padding: 0;
     }
 }
