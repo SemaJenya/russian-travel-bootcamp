@@ -22,7 +22,6 @@
 
 ![altai page](https://semajenya.github.io/russian-travel-bootcamp/raw/main/images/altai-page.png)
 
-**GitHub Pages**
 
 [GitHub Pages](https://semajenya.github.io/russian-travel-bootcamp/)
 
