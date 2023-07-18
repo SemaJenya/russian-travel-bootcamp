@@ -11,7 +11,7 @@
 * Адаптивная верстка
 * БЭМ
 
-**Описание**
+### **Описание**
 
 ![main page](https://github.com/SemaJenya/russian-travel-bootcamp/raw/main/images/main-page.png)
 
